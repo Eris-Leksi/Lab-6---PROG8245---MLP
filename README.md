@@ -1,5 +1,7 @@
 # MLP Lab – Phrase Queries with Inverted Index
 
+# Group 8
+
 ## Team Members
 - Eris Leksi  
 - Erica Holden  
